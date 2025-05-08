@@ -12,8 +12,8 @@ A simple and elegant web-based expense tracker application that allows users to 
 
 ## 🖼️ Demo
 
-![Screenshot 2025-05-08 141929](https://github.com/user-attachments/assets/bd0646cc-2e9e-4208-b62d-ce7c214919e1)
 ![Screenshot 2025-05-08 141920](https://github.com/user-attachments/assets/abd8811b-b173-46e7-9167-ee0e5e453d76)
+![Screenshot 2025-05-08 141929](https://github.com/user-attachments/assets/bd0646cc-2e9e-4208-b62d-ce7c214919e1)
 ![Screenshot 2025-05-08 141946](https://github.com/user-attachments/assets/35baec32-bc81-4b0d-8a1d-72091d799916)
 
 ## 🛠️ Technologies Used

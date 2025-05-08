@@ -23,4 +23,28 @@ A simple and elegant web-based expense tracker application that allows users to 
 - JavaScript
 
 ## 📦 Folder Structure
+![image](https://github.com/user-attachments/assets/367cdfde-ffe4-4aeb-b6ba-b5df9c05faac)
 
+
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/expense-tracker.git
+   cd expense-tracker
+2. Open in your browser:
+
+  Just double-click index.html
+
+  Or use a local server (like Live Server in VS Code)
+## TODO / Future Improvements
+Add filter by date or category
+
+Export expenses to CSV
+
+Mobile-first responsive redesign
+
+User authentication for cloud sync

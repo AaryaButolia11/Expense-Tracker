@@ -2,6 +2,7 @@
 
 A simple and elegant web-based expense tracker application that allows users to add, view, and delete expenses, track total spending, and switch between light and dark themes. All data is saved in the browser using localStorage.
 
+
 ## 🌟 Features
 
 - Add and delete expenses

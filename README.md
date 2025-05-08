@@ -2,6 +2,9 @@
 
 A simple and elegant web-based expense tracker application that allows users to add, view, and delete expenses, track total spending, and switch between light and dark themes. All data is saved in the browser using localStorage.
 
+## Deployed
+This project is deployed on vercel for access 
+link :- https://expense-tracker-aaryabutolia11s-projects.vercel.app/
 
 ## 🌟 Features
 
